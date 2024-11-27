@@ -4,8 +4,8 @@ compatibility_date = "2024-11-20"
 
 # compatibility_flags = [ "nodejs_compat" ]
 
-[[d1_databases]]
-binding = "DB"
-database_name = "todo-db-test"
-database_id = "5773e55b-6ea5-47b0-a91c-37a2c8747ea1"
-migrations_dir = "drizzle/migrations"
+#[[d1_databases]]
+#binding = ""
+#database_name = ""
+#database_id = ""
+#migrations_dir = "drizzle/migrations"
